@@ -1,4 +1,4 @@
-<p align="right">🇬🇧 <b>English</b> · 🇹🇷 <a href="README.tr.md">Türkçe</a></p>
+<p align="right"><b>EN</b> | <a href="README.tr.md">TR</a></p>
 
 <!-- Banner -->
 <p align="center">
