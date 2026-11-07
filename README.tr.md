@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://umutkilictas.tr"><img src="https://img.shields.io/badge/Website-umutkilictas.tr-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/umut-kilictas/"><img src="https://img.shields.io/badge/LinkedIn-umut--kilictas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:umutkilictas06@gmail.com"><img src="https://img.shields.io/badge/E--posta-umutkilictas06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
+  <a href="https://umutkilictas.tr"><img src="https://img.shields.io/badge/Website-1e293b?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/umut-kilictas/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:umutkilictas06@gmail.com"><img src="https://img.shields.io/badge/E--posta-1e293b?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="E-posta"/></a>
 </p>
 
 ---
@@ -59,17 +59,6 @@ Yazılımı uçtan uca geliştirmeyi seviyorum ve kendimi tek bir dille sınırl
 <p align="right"><a href="https://github.com/umutkilictas?tab=repositories">➡️ Tüm repolar</a></p>
 
 ---
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umutkilictas&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&locale=tr" alt="GitHub istatistikleri"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkilictas&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&locale=tr" alt="En çok kullanılan diller"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umutkilictas&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub seri"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer"/>
