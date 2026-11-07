@@ -54,7 +54,7 @@ I like building software end to end and I'm not tied to a single language — my
 | 👁️ [**Smart Presence Monitor**](https://github.com/umutkilictas/opencv-smart-presence-monitor) | Real-time webcam presence monitoring with alarm, automatic screenshot capture and event logging. | `Python` `OpenCV` |
 | 🌐 [**Django Portfolio**](https://github.com/umutkilictas/django-portfolio) | Dynamic personal portfolio with admin-managed content and light/dark theme. | `Django` `Bootstrap 5` `SQLite` |
 | 🧾 [**MVC CV Website**](https://github.com/umutkilictas/aspnet-mvc-cv-website) | Dynamic CV website with an admin panel for content management. | `ASP.NET MVC 5` `C#` `SQL` |
-| 🩺 [**Kidney Disease Classification**](https://github.com/umutkilictas/kidney_disease) | Compares 4 ML models on the Chronic Kidney Disease dataset with preprocessing & visualisation. | `scikit-learn` `Pandas` |
+| 🩺 [**Kidney Disease Classification**](https://github.com/umutkilictas/chronic-kidney-disease-ml) | Compares 4 ML models on the Chronic Kidney Disease dataset with preprocessing & visualisation. | `scikit-learn` `Pandas` |
 
 <p align="right"><a href="https://github.com/umutkilictas?tab=repositories">➡️ See all repositories</a></p>
 

@@ -54,7 +54,7 @@ Yazılımı uçtan uca geliştirmeyi seviyorum ve kendimi tek bir dille sınırl
 | 👁️ [**Akıllı Varlık Takibi**](https://github.com/umutkilictas/opencv-smart-presence-monitor) | Web kamerasıyla gerçek zamanlı kullanıcı takibi; alarm, otomatik ekran görüntüsü ve olay kaydı. | `Python` `OpenCV` |
 | 🌐 [**Django Portfolyo**](https://github.com/umutkilictas/django-portfolio) | Admin panelinden yönetilen, açık/koyu tema destekli dinamik kişisel portfolyo. | `Django` `Bootstrap 5` `SQLite` |
 | 🧾 [**MVC CV Sitesi**](https://github.com/umutkilictas/aspnet-mvc-cv-website) | İçeriği admin panelinden yönetilen dinamik özgeçmiş sitesi. | `ASP.NET MVC 5` `C#` `SQL` |
-| 🩺 [**Böbrek Hastalığı Sınıflandırma**](https://github.com/umutkilictas/kidney_disease) | Kronik Böbrek Hastalığı veri setinde 4 farklı ML modelinin karşılaştırılması, ön işleme ve görselleştirme. | `scikit-learn` `Pandas` |
+| 🩺 [**Böbrek Hastalığı Sınıflandırma**](https://github.com/umutkilictas/chronic-kidney-disease-ml) | Kronik Böbrek Hastalığı veri setinde 4 farklı ML modelinin karşılaştırılması, ön işleme ve görselleştirme. | `scikit-learn` `Pandas` |
 
 <p align="right"><a href="https://github.com/umutkilictas?tab=repositories">➡️ Tüm repolar</a></p>
 
