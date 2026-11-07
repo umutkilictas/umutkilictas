@@ -1,3 +1,5 @@
+<p align="right">🇬🇧 <b>English</b> · 🇹🇷 <a href="README.tr.md">Türkçe</a></p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Umut%20K%C4%B1l%C4%B1%C3%A7ta%C5%9F&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="banner"/>
