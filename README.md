@@ -4,7 +4,7 @@
 Jr. Full Stack Developer
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/umut-kilictas/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width=40 alt="LinkedIn"></a> <a href="https://umutkilictas.com.tr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" width=40 alt="Website"></a> </p>
+<p><a href="https://www.linkedin.com/in/umut-kilictas/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width=40 alt="LinkedIn"></a> <a href="https://umutkilictas.tr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" width=40 alt="Website"></a> </p>
 
 ## Skills
 
